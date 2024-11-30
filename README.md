@@ -152,7 +152,7 @@ More info can be found in [`.env.example`](https://github.com/ghoshRitesh12/aniw
 
 Deploy your own instance of Aniwatch API on Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ghoshRitesh12/aniwatch-api)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/virtualwinter/anime-api)
 
 > [!NOTE]
 >
